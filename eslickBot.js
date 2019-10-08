@@ -64,4 +64,4 @@ function tweetIt() { // Function to send tweets
 };
 
 tweetIt();
-
+setInterval(tweetIt, 1000*60*60)
