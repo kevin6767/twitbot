@@ -1,1 +1,1 @@
-worker: node eslickBot.js
+worker: npm start
