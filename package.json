@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "twitter": "^1.7.1",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "dotenv": "^8.1.0"
   }
 }
