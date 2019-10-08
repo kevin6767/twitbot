@@ -1,0 +1,28 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node eslickBot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin6767/twitbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin6767/twitbot/issues"
+  },
+  "homepage": "https://github.com/kevin6767/twitbot#readme",
+  "devDependencies": {
+    "dotenv": "^8.1.0",
+    "twit": "^2.2.11"
+  },
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
