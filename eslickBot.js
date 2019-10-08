@@ -42,7 +42,7 @@ function tweetEvent(tweet) {
     })
 };
 
-tweetIt();
+
 
 
 function tweetIt() { // Function to send tweets
@@ -63,5 +63,5 @@ function tweetIt() { // Function to send tweets
     })
 };
 
-
+tweetIt();
 
