@@ -1,5 +1,6 @@
 # twitbot
 Twitter bot for sending tweets
+https://twitter.com/BotEslick
 
 UPDATE 10/3
 Creating a twitter bot using Node.js and a couple of libaries. Currently the 1.0 version only favorites tweets. But soon I want it to be able to
