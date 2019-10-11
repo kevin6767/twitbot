@@ -1,4 +1,4 @@
-'module.exports = '[
+module.exports = [
 '"Are you Christmas, because I want to Merry you."',
 '"Are you interested in seeing the North Pole?"',
 '"Are you looking for a tree topper? Because Ive been told Im a star on top."',
@@ -337,5 +337,4 @@
 'You must be a WASP because I want you to Bee mine.',
 'You put the "leg" in "delegate".',
 'Youre just like Ann Coulter, but without the penis'
-     
-     ]
+]
